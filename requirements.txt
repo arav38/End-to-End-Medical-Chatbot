@@ -9,4 +9,5 @@ langchain_openai
 # langchainembeddings
 langchain_community
 langchain_experimental
+google
 -e .

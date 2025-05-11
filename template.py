@@ -12,7 +12,7 @@ list_of_files = [
     'requirements.txt',
     'setup.py',
     'app.py',
-    'research/trails.py',
+    'research/trails.ipynb',
 ]
 
 for file in list_of_files:
